@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Josue Benavides</h1>
+<h1 align="center">Hi 👋, I'm Josue Benavides!</h1>
 <h3 align="center">A passionate full stack developer from Peru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josuebena177&label=Profile%20views&color=0e75b6&style=flat" alt="josuebena177" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josuebena177" alt="josuebena177" /></a> </p>
-
 - 🔭 I’m currently looking for **MERN Stack Projects**
 
 - 📫 How to reach me **josuebena177@gmail.com**
